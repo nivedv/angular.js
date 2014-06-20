@@ -78,8 +78,7 @@ bower install
 
 # Build AngularJS:
 grunt package
-```
-
+[Use --force if you get Aborted message]
 
 <div class="alert alert-warning">
 **Note:** If you're using Windows, you must use an elevated command prompt (right click, run as
